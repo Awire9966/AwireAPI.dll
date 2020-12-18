@@ -2,7 +2,7 @@
 
 With This Api, All your programs can be made 10X better.
 
-This API made by me, will do everything!
+This API made by me, will do everything! :godmode:
 
 -Open a File!
 
